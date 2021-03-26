@@ -51,7 +51,6 @@ public class UsersResource {
     }
 
 
-    @Entity
     public class User {
 
         private final String userName;
